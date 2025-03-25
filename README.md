@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I am a graduate student at Duke University studying Energy and Data Analytics. I'm currently working on projects for my Time Series, Statistical Modeling, and Machine Learning classes.
+
+Pronouns: she/her
+
+Connect on LinkedIn: www.linkedin.com/in/jessalyn-chuang
+
+A photo I took of Duke Gardens in bloom. 🌸
+
+<img width="647" alt="Screenshot 2025-03-25 at 3 12 37 PM" src="https://github.com/user-attachments/assets/513aa32a-2aa4-43de-82e4-434d475f1390" /> 
+
 <!--
 **jessalynlc/jessalynlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
