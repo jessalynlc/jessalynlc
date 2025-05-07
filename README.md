@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a graduate student at Duke University studying Energy and Data Analytics. I'm currently working on projects for my Time Series, Statistical Modeling, and Machine Learning classes.
+I am a graduate student at Duke University studying Energy and Data Analytics. 
 
 Pronouns: she/her
 
